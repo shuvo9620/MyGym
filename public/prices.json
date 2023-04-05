@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 40,
+      "features": ["Gym access", "Locker room"]
+    },
+    {
+      "id": 2,
+      "name": "Pro Membership",
+      "price": 70,
+      "features": ["Gym access", "Locker room", "Group classes"]
+    },
+    {
+      "id": 3,
+      "name": "Elite Membership",
+      "price": 115,
+      "features": ["Gym access", "Locker room", "Group classes", "Personal training"]
+    }
+  ]
+  
